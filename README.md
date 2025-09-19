@@ -4,7 +4,7 @@ GlotSpot is a modern, interactive language learning application that uses AI to 
 
 ## 🌐 Live Demo
 
-[**🚀 Try GlotSpot Live**](link) - Experience the full application with AI-generated .
+[**🚀 Try GlotSpot Live**](https://glot-spot.vercel.app/) - Experience the full application with AI-generated .
 
 ## Features
 
