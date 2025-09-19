@@ -1,0 +1,34 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Environment variables
+.env
+
+# Development documentation
+FIREBASE_SETUP.md
+ENHANCEMENTS.md
+IMAGE_FIX.md
+CODE_CLEANUP_SUMMARY.md
+check-firebase.js
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
